@@ -1,9 +1,7 @@
 ## Anniversary Gift
 
-### 给ZLY的生日礼物！
+The gift to zly
 
+### [访问](https://realyao.github.io/zy/)
 
-### [PC访问](https://realyao.github.io/zy/)
 移动端显示问题暂未修复
-
-
